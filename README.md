@@ -79,9 +79,9 @@ UOPS（UCloud Operation Service）是UCloud运维服务，基于服务团队多�
 如果已注册了UCloud账户，则可以立即开始使用产品。如果尚未注册，请参见‘账号注册’。 注册UCloud时，账户默认不会开启运维服务产品功能，需要与客户经理联系或提交工单联系技术支持申请通过后，方可使用。
 ## Step2.访问控制台
 1）进入运维服务产品界面，点击运维服务，立即购买 
-https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops1.png
+![image](https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops1.png)
 2）选择对应服务，点击确认即可购买。 
-https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops2.png
+![image](https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops2.png)
 在弹出页面中，选择相应项目名称，服务类型，计费方式，数量：
 1、项目名称，指U管家服务根据项目来进行收费，比如默认项目需要使用U管家服务，选择默认项目即可。
 2、服务类型，指不同服务产品支持不同服务，具体可参考产品详情（此处超链接）
@@ -140,7 +140,7 @@ setp5、项目验收
 
 # FAQ
 1、购买运维服务的完整流程是什么样子的？
-https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops3.png
+![image](https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops3.png）
 
 2、后续运维和售后如何界定？
 默认按照合同约定在服务期限内进行维护，如服务到期不续费，默认不在提供技术支持与维护。
