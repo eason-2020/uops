@@ -2,10 +2,12 @@
 
 **目录**
 - 产品简介
+- 应用场景
 - 快速上手 
-- 服务流程 
-- FAQ 
-- 相关推荐产品
+- 购买指导
+- 使用指南
+- 产品价格
+- FAQ
 
 
 # 产品简介
@@ -163,7 +165,7 @@ setp5、项目验收
 
 # FAQ
 1、购买运维服务的完整流程是什么样子的？
-![image](https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops3.png）
+![image](https://raw.githubusercontent.com/Rockzhouxw/uops/master/uops3.png)
 
 2、后续运维和售后如何界定？
 默认按照合同约定在服务期限内进行维护，如服务到期不续费，默认不在提供技术支持与维护。
